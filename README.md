@@ -1,7 +1,10 @@
 ⚠️ **Disclaimer:** If you encounter any errors or issues while using the live app, it's most likely due to one of my API tokens expiring or my account reaching its usage limit. In such cases, I advise you to run the application from the source code provided in this repository.
 
-
 # Rewind
+<div align="center">
+<h2 align="center"><a href="https://rewind-liard.vercel.app/">Link to live demo</a></h2>
+</div>
+
 [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=flat-square)](https://nextjs.org/)
 [![Powered by TypeScript](https://img.shields.io/badge/Powered%20by-TypeScript-blue?style=flat-square)](https://www.typescriptlang.org/)
 
